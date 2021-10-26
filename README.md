@@ -4,7 +4,6 @@ The BePAPER-project will provide a first overview of the field of Belgian avant-
 
 The BePAPER project is a BRAIN project, supported by BELSPO.
 
-[More information](https://www.fine-arts-museum.be/en/research/research-projects/bepaper)
-[Contact us](mailto:bepaper@fine-arts-museum.be)
+[More information](https://www.fine-arts-museum.be/en/research/research-projects/bepaper)  [Contact us](mailto:bepaper@fine-arts-museum.be)
 
 ![Jozef Peeters](peeters_12377dig_h_large@2x.jpg "Jozef Peeters")
