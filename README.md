@@ -11,4 +11,5 @@ BePAPER is a BRAIN project, supported by BELSPO.
 <a href="https://www.fine-arts-museum.be/en/research/research-projects/bepaper" target="_blank"><img src="peeters_12377dig_h_large@2x.jpg" alt="Jozef Peeters" width="50%"/></a>
 
 <sup>JOZEF PEETERS, Preparatory Study For a Canvas, 1921, coloured pencil on fine paper.</sup>
+
 <sub><sup>© RMFAB, Brussels / photo: J. Geleyns - Art Photography</sup></sub>
