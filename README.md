@@ -7,3 +7,5 @@ The BePAPER project is a BRAIN project, supported by BELSPO.
 [Contact us](mailto:bepaper@fine-arts-museum.be)
 
 [![Jozef Peeters](peeters_12377dig_h_large@2x.jpg "Jozef Peeters")](https://www.fine-arts-museum.be/en/research/research-projects/bepaper)
+
+<img src="peeters_12377dig_h_large@2x.jpg" alt="Jozef Peeters" width="50%"/>
